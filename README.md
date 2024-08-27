@@ -1,6 +1,6 @@
 # Menu Burger
 
-![Menu Burger Preview](assets/[image.png](https://raw.githubusercontent.com/feyuk/menu-burger/main/assets/readme-img.png)
+![Menu Burger Preview](https://raw.githubusercontent.com/feyuk/menu-burger/main/assets/readme-img.png)
 
 
 A simple, responsive burger menu for web applications and websites. This project aims to provide a customizable and easy-to-integrate burger menu component that enhances the user experience, particularly on mobile devices.
